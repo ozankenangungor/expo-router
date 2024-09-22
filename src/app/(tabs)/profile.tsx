@@ -1,9 +1,9 @@
 import { Text } from "react-native";
 
 
-export default function Tabs() {
+export default function ProfileScreen() {
 
     return (
-        <Text>Ozan</Text>
+        <Text>Profile</Text>
     )
 }

@@ -1,9 +1,9 @@
 import { Text } from "react-native";
 
 
-export default function Tabs() {
+export default function CreatePost() {
 
     return (
-        <Text>New</Text>
+        <Text>Create Post</Text>
     )
 }
