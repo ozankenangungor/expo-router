@@ -1,4 +1,5 @@
 import { Slot, Stack, Tabs } from "expo-router";
+import "../../global.css"
 
 
 
